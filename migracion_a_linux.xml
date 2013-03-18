@@ -1,0 +1,18 @@
+  <chapter>
+    <title>Migración y coexistencia con sistemas no Linux</title>
+    <para>Esta es la introduccion</para>
+
+   
+  <sect1>
+      <title>Seccion Unica</title>
+      <para>Y hasta dice algo</para>
+      <sect2>
+	<title>Primera subseccion</title>
+	<para>Nada de que hablar</para>
+      </sect2>
+      <sect2>
+	<title>Segunda subseccion</title>
+	<para>Nada que decir</para>
+      </sect2>
+    </sect1>
+  </chapter>

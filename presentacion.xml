@@ -1,0 +1,22 @@
+  <chapter>
+    <title>Objetivos del curso</title>
+    <para>Esta es la introduccion</para>
+
+   
+  <sect1>
+      <title>Objetivos Clave</title>
+      <para>Y hasta dice algo</para>
+</sect1>
+      <sect1>
+	<title>Resumen de la audiencia.</title>
+	<para>Nada de que hablar</para>
+      </sect1>
+<sect1>
+	<title>Prerrequisitos del curso.</title>
+	<para>Nada de que hablar</para>
+      </sect1>
+      <sect1>
+	<title>Versiones utilisadas</title>
+	<para>Curso sobre uso y administracion de linux basado en las versiones de ubuntu &ubuntu-version; suse &suse-version; y Cientific Linux (Red Hat)  &cientificlinux-version;.</para>
+      </sect1>
+  </chapter>

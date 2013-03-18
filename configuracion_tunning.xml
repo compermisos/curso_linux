@@ -1,0 +1,30 @@
+<chapter>
+    <title>Configuración, sintonización y optimización  </title>
+    <para>Esta es la introduccion</para>
+
+   
+  <sect1>
+      <title>Seccion Unica</title>
+      <para>Y hasta dice algo</para>
+      <sect2>
+	<title>Primera subseccion</title>
+	<para>Nada de que hablar</para>
+      </sect2>
+      <sect2>
+	<title>Segunda subseccion</title>
+	<para>Nada que decir</para>
+      </sect2>
+    </sect1>
+
+<sect1>
+<title>Resumen del capitulo</title>
+ <sect2>
+	<title>Comandos</title>
+	<para>Nada de que hablar</para>
+      </sect2>
+ <sect2>
+	<title>Ficheros de configuracion.</title>
+	<para>Nada de que hablar</para>
+ </sect2>
+    </sect1>
+  </chapter>

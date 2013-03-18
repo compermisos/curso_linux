@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"   
+	"http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
+<!ENTITY ubuntu-version "12.10">
+<!ENTITY suse-version"12">
+<!ENTITY cientificlinux-version "6">
+<!ENTITY presentacionDelCurso SYSTEM "presentacion.xml">
+<!ENTITY capitulo1 SYSTEM "introduccion_a_linux.xml">
+<!ENTITY capitulo2 SYSTEM "migracion_a_linux.xml">
+<!ENTITY capitulo3 SYSTEM "herramientas_basicas_del_Adminsitrador.xml">
+<!ENTITY capitulo4 SYSTEM "el_kernel.xml">
+<!ENTITY capitulo5 SYSTEM "administracion_local.xml">
+<!ENTITY capitulo6 SYSTEM "administracion_red.xml">
+<!ENTITY capitulo7 SYSTEM "administracion_de_servidores.xml">
+<!ENTITY capitulo8 SYSTEM "concepciones_generales_sobre_seguridad.xml">
+<!ENTITY capitulo9 SYSTEM "introduccion_a_linux.xml">
+<!ENTITY capitulo10 SYSTEM "clustering.xml">
+]>
+<book lang="es">
+ <bookinfo>
+  <title>Curso basico de Linux</title>
+<authorgroup>
+   <author>
+    <firstname>Jesus Christian</firstname>
+    <surname>Cruz Acono</surname>
+    <affiliation>
+     <orgname>Cts</orgname>
+     <address>
+      <email>compermisos@gmail.com</email>
+     </address>
+    </affiliation>
+   </author>
+  </authorgroup>
+
+  <copyright>
+   <year>2012-2013</year>
+   <holder>Jesus Christian Cruz Acono</holder>
+  </copyright>
+
+  <legalnotice>
+   <para>Esta obra está licenciada bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 2.5 México. Para ver una copia de esta licencia, visita http://creativecommons.org/licenses/by-nc-sa/2.5/mx/.".</para>
+  </legalnotice>
+ </bookinfo>
+
+
+
+<dedication>
+	<para>Aprendemos mas de la gente que nos maltrata. Que se burla de nosotros, o de la que critica nuestros actos. Por que ellos nos muestran exactamente donde tenemos problemas con nosotros mismos. no puedo escribir nada, sin darle gracias a la gente que me cree que no soy capaz. Por que ellos me obligan a ser capaz.</para>
+<para>Mas sin embargo, el aprender solo es el comienso, el siguiente paso es enseñar. Y eso, es un acto de amor. Solo cuando realmente amas, puedes enseñar. Gracias a la gente que me enseño, por que ahora a llegado el momento de enseñar.</para>
+</dedication>
+
+<index/>
+
+&presentacionDelCurso;
+&capitulo1;
+&capitulo2;
+&capitulo3;
+&capitulo4;
+&capitulo5;
+&capitulo6;
+&capitulo7;
+&capitulo8;
+&capitulo9;
+&capitulo10;
+  
+<colophon>
+<para>CC2013</para>
+</colophon>
+</book>
