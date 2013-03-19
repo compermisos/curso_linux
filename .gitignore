@@ -1,4 +1,7 @@
+/*ommit temp files*/
 *~
 base/*
-*.pdf
 base-junk/*
+/*ommit outpots*/
+*.pdf
+*.epub
