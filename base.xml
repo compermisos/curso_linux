@@ -2,7 +2,7 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"   
 	"http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
 <!ENTITY ubuntu-version "12.10">
-<!ENTITY suse-version"12">
+<!ENTITY suse-version "12">
 <!ENTITY cientificlinux-version "6">
 <!ENTITY presentacionDelCurso SYSTEM "presentacion.xml">
 <!ENTITY capitulo1 SYSTEM "introduccion_a_linux.xml">
